@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+*.md
+prompt.txt
+backend/.venv
+backend/.pytest_cache
+backend/__pycache__
+backend/sample_traffic*.csv
+frontend/node_modules
+frontend/dist
+frontend/.vite

@@ -1,0 +1,14 @@
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.coverage
+htmlcov
+.ruff_cache
+*.log
+sample_traffic.csv
+sample_traffic_clean.csv
+tests
